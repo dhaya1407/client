@@ -10,11 +10,15 @@ public class Clientinfo {
 			System.out.println("dhaya");
 
 		}
+		private void student3() {
+			System.out.println("arun");
+		}
 		public static void main(String[] args) {
 			
 			Clientinfo a = new Clientinfo();
 			
 			a.student();
+			a.student3();
 		}
 	
 			
